@@ -1,2 +1,2 @@
 # aws_restart.
-aws restart program
+aws restart program Python labs
